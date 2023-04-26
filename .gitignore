@@ -1,0 +1,14 @@
+/*
+!wp-content
+!.gitignore
+wp-content/*
+
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/twentytwentythree
+wp-content/themes/twentytwentythree/*
+!wp-content/themes/twentytwentythree/movies.php
+
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/Movies
