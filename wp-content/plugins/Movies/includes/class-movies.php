@@ -48,4 +48,4 @@ class Movies{
 
 }
 
-new Movies;
+new Movies();

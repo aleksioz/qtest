@@ -112,5 +112,4 @@ class MovieMetaBox {
 }
 
 
-
-new MovieMetaBox;
+new MovieMetaBox();
